@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>React Calculator</h1>
+      <h1>Calculator</h1>
       <input
         type="number"
         placeholder="Enter first number"
