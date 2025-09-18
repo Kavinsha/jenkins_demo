@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Calculator</h1>
+      <h1>Simple Calculator</h1>
       <input
         type="number"
         placeholder="Enter first number"
